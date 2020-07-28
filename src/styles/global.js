@@ -67,6 +67,10 @@ export default createGlobalStyle`
         font-weight: bold;
         text-align: center;
         padding: 15px;
+    }
+    .card-body p {margin: 0; padding: 0}    
+    .team-badge {
+        width: 20px;
+        margin-right: 7px;
     }    
-    
 `;
